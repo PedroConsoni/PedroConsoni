@@ -8,7 +8,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, 1x AWS Certified e desenvol
 
 <h3 align="left">Conecte-se comigo!</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/pedroconsoni/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/pedroconsoni/)
 
 ### Linguagens e Tecnologias
 
