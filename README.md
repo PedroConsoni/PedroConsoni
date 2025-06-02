@@ -63,7 +63,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, 1x AWS Certified e desenvol
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 15px;" 
+    style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=PedroConsoni&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
