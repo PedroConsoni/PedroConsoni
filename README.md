@@ -62,7 +62,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, 1x AWS Certified e desenvol
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="190" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=PedroConsoni&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -70,7 +70,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, 1x AWS Certified e desenvol
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="190" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroConsoni&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
