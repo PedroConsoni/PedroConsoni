@@ -22,6 +22,14 @@ Estudante de Análise e Desenvolvimento de Sistemas, 1x AWS Certified e desenvol
 />
 <img 
     align="left" 
+    alt="Spring"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+<img 
+    align="left" 
     alt="AWS"
     title="AWS" 
     width="30px" 
