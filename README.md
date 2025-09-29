@@ -30,6 +30,22 @@ Estudante de Análise e Desenvolvimento de Sistemas, 1x AWS Certified e desenvol
 />
 <img 
     align="left" 
+    alt="Git"
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Github"
+    title="Github" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+<img 
+    align="left" 
     alt="AWS"
     title="AWS" 
     width="30px" 
