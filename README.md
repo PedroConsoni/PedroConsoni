@@ -1,16 +1,16 @@
 # Pedro Consoni
 
-**`Desenvolvedor`**
+**`Developer`**
 
-Estudante de Análise e Desenvolvimento de Sistemas, 1x AWS Certified e desenvolvedor Java. Atuei como monitor (instrutor auxiliar) em um curso intensivo de Letramento Digital, com duração de 10 dias, direcionado à introdução de alunos ao universo da tecnologia e à preparação para um programa formativo em Cloud Computing com foco em AWS. Durante esse período, prestei suporte direto ao instrutor e auxiliei os alunos em atividades práticas, abordando temas como raciocínio lógico, lógica de programação, algoritmos e uso da pseudolinguagem Portugol. Tenho como principal objetivo o crescimento profissional nas áreas de programação e computação em nuvem.
+Systems Analysis and Development student, 1x AWS Certified, and backend developer. I served as a monitor (assistant instructor) in an intensive 10-day Digital Literacy course designed to introduce students to the world of technology and prepare them for a Cloud Computing training program focused on AWS. During this time, I provided direct support to the instructor and assisted students with practical activities, covering topics such as logical reasoning, programming logic, algorithms, and the use of the Portugol pseudolanguage. My main goal is professional growth in the areas of programming and cloud computing.
 
 ---
 
-<h3 align="left">Conecte-se comigo!</h3>
+<h3 align="left">Connect with me!</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/pedroconsoni/)
 
-### Linguagens e Tecnologias
+### Languages ​​and Technologies
 
 <img 
     align="left" 
@@ -80,7 +80,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, 1x AWS Certified e desenvol
 <br/>
 <br/>
 
-### Estatísticas
+### Statistics
 
 <p>
   <img 
