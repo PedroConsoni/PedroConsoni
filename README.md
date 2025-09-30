@@ -2,7 +2,7 @@
 
 **`Developer`**
 
-Systems Analysis and Development student, 1x AWS Certified, and backend developer. I served as a monitor (assistant instructor) in an intensive 10-day Digital Literacy course designed to introduce students to the world of technology and prepare them for a Cloud Computing training program focused on AWS. During this time, I provided direct support to the instructor and assisted students with practical activities, covering topics such as logical reasoning, programming logic, algorithms, and the use of the Portugol pseudolanguage. My main goal is professional growth in the areas of programming and cloud computing.
+Análise e Desenvolvimento de Sistemas student, 1x AWS Certified, and backend developer. I served as a monitor (assistant instructor) in an intensive 10-day Digital Literacy course designed to introduce students to the world of technology and prepare them for a Cloud Computing training program focused on AWS. During this time, I provided direct support to the instructor and assisted students with practical activities, covering topics such as logical reasoning, programming logic, algorithms, and the use of the Portugol pseudolanguage. My main goal is professional growth in the areas of programming and cloud computing.
 
 ---
 
