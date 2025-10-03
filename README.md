@@ -1,6 +1,6 @@
 # Pedro Consoni
 
-**`Developer`**
+**`Desenvolvedor`**
 
 Estudante de Análise e Desenvolvimento de Sistemas, 1x AWS Certified e desenvolvedor back-end. Atuei como monitor (instrutor auxiliar) em um curso intensivo de Letramento Digital, com duração de 10 dias, projetado para introduzir os alunos ao mundo da tecnologia e prepará-los para um curso de Computação em Nuvem com foco na AWS. Durante esse período, ajudei no suporte direto ao instrutor e auxiliei os alunos em atividades práticas, abordando tópicos como raciocínio lógico, lógica de programação, algoritmos e o uso da pseudolinguagem Portugol. Meu principal objetivo é o crescimento profissional nas áreas de programação e computação em nuvem.
 
@@ -51,6 +51,14 @@ Estudante de Análise e Desenvolvimento de Sistemas, 1x AWS Certified e desenvol
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
