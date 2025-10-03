@@ -2,15 +2,15 @@
 
 **`Developer`**
 
-Análise e Desenvolvimento de Sistemas student, 1x AWS Certified, and backend developer. I served as a monitor (assistant instructor) in an intensive 10-day Digital Literacy course designed to introduce students to the world of technology and prepare them for a Cloud Computing training program focused on AWS. During this time, I provided direct support to the instructor and assisted students with practical activities, covering topics such as logical reasoning, programming logic, algorithms, and the use of the Portugol pseudolanguage. My main goal is professional growth in the areas of programming and cloud computing.
+Estudante de Análise e Desenvolvimento de Sistemas, 1x AWS Certified e desenvolvedor back-end. Atuei como monitor (instrutor auxiliar) em um curso intensivo de Letramento Digital, com duração de 10 dias, projetado para introduzir os alunos ao mundo da tecnologia e prepará-los para um curso de Computação em Nuvem com foco na AWS. Durante esse período, ajudei no suporte direto ao instrutor e auxiliei os alunos em atividades práticas, abordando tópicos como raciocínio lógico, lógica de programação, algoritmos e o uso da pseudolinguagem Portugol. Meu principal objetivo é o crescimento profissional nas áreas de programação e computação em nuvem.
 
 ---
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Conecte-se comigo!</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/pedroconsoni/)
 
-### Languages ​​and Technologies
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
