@@ -88,7 +88,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, 1x AWS Certified e desenvol
 <br/>
 <br/>
 
-### Estatística
+### Estatísticas
 
 <p>
   <img 
